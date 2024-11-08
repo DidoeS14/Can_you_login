@@ -58,6 +58,7 @@ Since this is a static site, you can deploy it on any web hosting platform, such
 - [GitHub Pages](https://pages.github.com)
 - [Netlify](https://www.netlify.com)
 - [Vercel](https://vercel.com)
+  <br>
 Simply upload the files, and you’re good to go!
 
 ## 🤔 FAQ
